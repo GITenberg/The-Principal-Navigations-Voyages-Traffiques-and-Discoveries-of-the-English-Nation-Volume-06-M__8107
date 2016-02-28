@@ -1,0 +1,26 @@
+_repo: The-Principal-Navigations-Voyages-Traffiques-and-Discoveries-of-the-English-Nation-Volume-06-M__8107
+creator:
+  author:
+    agent_name: Hakluyt, Richard
+    alias: Hackluyt, Richard
+    deathdate: 1616
+    gutenberg_agent_id: '1212'
+    url: http://www.gutenberg.org/2009/agents/1212
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Hakluyt
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Discoveries in geography -- English'
+- !lcc 'G'
+title: "The Principal Navigations, Voyages, Traffiques and Discoveries of the English\
+  \ Nation — Volume 06\r\nMadiera, the Canaries, Ancient Asia, Africa, etc."
+url: http://www.gutenberg.org/ebooks/8107
